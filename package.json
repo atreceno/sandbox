@@ -1,0 +1,33 @@
+{
+  "name": "sandbox",
+  "version": "0.0.0",
+  "description": "This is meant to be a sandbox with several tools that I find useful.",
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "homepage": "https://github.com/atreceno/sandbox",
+  "bugs": "https://github.com/atreceno/sandbox/issues",
+  "author": {
+    "name": "Agustin",
+    "email": "agustin.treceno@gmail.com",
+    "url": "http://atreceno.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atreceno/sandbox"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-qunit": "~0.1.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.1.2"
+  }
+}
