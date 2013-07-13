@@ -2,7 +2,7 @@
  * sandbox
  * https://github.com/atreceno/sandbox
  *
- * Copyright (c) 2013 Agustin
+ * Copyright (c) 2013 Agustin Treceno
  * Licensed under the MIT license.
  */
 

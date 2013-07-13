@@ -54,4 +54,4 @@ _(Nothing yet)_
 
 ## License
  
- Copyright (c) 2013 Agustin. Licensed under the MIT license.
+ Copyright (c) 2013 Agustin Treceno. Licensed under the MIT license.
