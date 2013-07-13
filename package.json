@@ -29,5 +29,8 @@
     "grunt-contrib-watch": "~0.2.0",
     "grunt-contrib-clean": "~0.4.0",
     "grunt-contrib-nodeunit": "~0.1.2"
+  },
+  "dependencies": {
+    "dsv": "0.0.2"
   }
 }
