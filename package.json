@@ -31,6 +31,7 @@
     "grunt-contrib-nodeunit": "~0.1.2"
   },
   "dependencies": {
-    "dsv": "0.0.2"
+    "dsv": "0.0.2",
+    "mongoose": "~3.6.14"
   }
 }
